@@ -54,5 +54,3 @@
 <a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-TristanLino-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tristan.a.lino@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tristan.a.lino@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/TristanLinoD)
