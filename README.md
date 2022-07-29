@@ -1,5 +1,3 @@
-<img src="https://unsplash.com/es/fotos/-Xqckh_XVU4">
-
 <h2> Hey there! I'm Tristan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
