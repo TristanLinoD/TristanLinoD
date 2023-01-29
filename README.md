@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Software Engineer at Tecnológico Nacional de México.
 - 💼 &nbsp; Working as a Full Stack Developer at Soluthink.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Oracle Cloud Infrastructure, AWS Cloud and Artificial Intelligence.
+- 🤔 &nbsp; Learning new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Studying about Cloud Architecture, Oracle Cloud Infrastructure, AWS Cloud and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
