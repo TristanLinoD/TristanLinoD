@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Tecnológico Nacional de México.
+- 🎓 &nbsp; Software Engineer at Tecnológico Nacional de México.
 - 💼 &nbsp; Working as a Full Stack Developer at Soluthink.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Oracle Cloud Infrastructure, AWS Cloud and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,6 +21,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
   ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=green)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -46,8 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.tristanlino.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TristanLino-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-TristanLino-blue?style=flat-square&logo=instagram"></a>
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TristanLino-blue?style=flat-square&logo=linkedin"></a>      
+<a href="https://github.com/TristanLinoD"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-TristanLino-blue?style=flat-square&logo=github"></a>
 <a href="mailto:tristan.a.lino@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tristan.a.lino@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
