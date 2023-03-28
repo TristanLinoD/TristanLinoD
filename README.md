@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TristanLino-blue?style=flat-square&logo=linkedin"></a>      
+<a href="https://www.linkedin.com/in/tristan-lino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TristanLino-blue?style=flat-square&logo=linkedin"></a>      
 <a href="https://github.com/TristanLinoD"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-TristanLino-blue?style=flat-square&logo=github"></a>
 <a href="mailto:tristan.a.lino@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tristan.a.lino@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
